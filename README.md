@@ -1,5 +1,7 @@
 # Programming Task 2
 
+Hi!
+
 Welcome to your first programming task 
   - You have to clone this repo to your account, you should be seeing this on your account, if someone elses name is listed call an instructor for help.
   - Use the Ubuntu VM to write the progrm.
